@@ -1,0 +1,1 @@
+------> utilisation de noms indicés dans les solutions pout éviter les collisions de nom !
